@@ -16,4 +16,4 @@ You may also see any lint errors in the console.
 
 ### Deployment
 
-This app is deployed here: [https://algovisualize.vercel.app/](https://algovisualize.vercel.app/)
+This app is deployed here: [https://algorithmsvisualizermp.vercel.app/](https://algorithmsvisualizermp.vercel.app/)
